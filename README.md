@@ -1,7 +1,8 @@
-# factorial
+# factorial_of_a_number
+
 
 #include<stdio.h>  
-int ()    
+int main ()    
 {    
  int i,fact=1,number;    
  printf("Enter a number: ");    
